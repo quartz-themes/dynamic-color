@@ -1,13 +1,13 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
+  pageTitle: dynamic-color
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: v5.quartz-1h4.pages.dev
+  baseUrl: quartz-themes.github.io/dynamic-color
   ignorePatterns:
     - private
     - templates
